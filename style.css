@@ -1,0 +1,105 @@
+body {
+  background-color: antiquewhite;
+  color: black;
+}
+
+.content {
+  margin-left: auto;
+  margin-right: auto;
+  width: 8em;
+  font-size: 50px;
+}
+.a {
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+  font-size: 40px;
+  border-bottom: solid 2px #555;
+}
+.b {
+  text-align: left;
+  margin-left: 100px;
+  padding-left: 100px;
+  border-bottom: solid 3px #000;
+  width: 300px;
+  padding-top: 50px;
+  font-size: 20px;
+}
+.c {
+  text-align: left;
+  margin-left: 150px;
+  padding-top: 40px;
+  font-size: 25px;
+}
+.d {
+  text-align: left;
+  margin-left: 100px;
+  padding-left: 100px;
+  width: 300px;
+  border-bottom: solid 3px #000;
+  padding-top: 40px;
+  font-size: 20px;
+}
+.e {
+  text-align: left;
+  margin-left: 150px;
+  padding-top: 40px;
+  font-size: 25px;
+}
+.f {
+  text-align: left;
+  margin-left: 100px;
+  padding-left: 100px;
+  padding-top: 40px;
+  width: 300px;
+  border-bottom: solid 3px #000;
+  font-size: 20px;
+}
+.g {
+  text-align: left;
+  margin-left: 150px;
+  padding-top: 40px;
+  font-size: 25px;
+}
+.h {
+  text-align: left;
+  margin-left: 100px;
+  padding-left: 100px;
+  padding-top: 40px;
+  width: 300px;
+  border-bottom: solid 3px #000;
+  font-size: 20px;
+}
+.i {
+  text-align: left;
+  margin-left: 150px;
+  padding-top: 40px;
+  font-size: 25px;
+}
+img {
+  overflow: hidden;
+  position: relative;
+  padding-left: 50px;
+  padding-top: 30px;
+  border-radius: 130px;
+}
+.flex {
+  display: flex;
+}
+.flex .image {
+  width: 640px;
+}
+.flex .text {
+  margin: 20px;
+}
+.sa {
+  padding-top: 20px;
+  text-align: center;
+}
+#answer {
+  text-align: center;
+}
+
+.kuizu {
+  text-align: center;
+}
